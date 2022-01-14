@@ -6,7 +6,7 @@
                     <content>
                         <List noDataText="Drop list items here" id="list0" items="{/BusinessPartnerSet}">
                             <items>
-                                <StandardListItem type="Navigation" title="{CompanyName}" description="{WebAddress}" icon="sap-icon://picture" id="item0"/>
+                                <StandardListItem type="Navigation" title="{CompanyName}" description="{EmailAddress}" icon="sap-icon://picture" id="item0"/>
                             </items>
                         </List>
                     </content>
